@@ -1,0 +1,7 @@
+Abhi ek to jo output ata hai, it comes black because of some color coding problem in the software or it might be simply some input problem as well
+
+interations are never ending so there is possibility that its somehow stuck in some infinite loop.
+
+find way to convern pdf/images to svg in python and also match the stroke and fill values accordingly.
+
+convertt the website into a js server to work with and integrate with python or something to complete the pipeline
